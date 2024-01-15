@@ -3,8 +3,8 @@
 - More mathematics here: https://www.math.columbia.edu/~om
 - Math Genealogy link: https://genealogy.math.ndsu.nodak.edu/id.php?id=4456
 - Erdős Number: 4
-- 🌱 I’m currently learning about Lean, and especially **mathlib**; hope to contribute.
-- Former life: see LinkedIn: https://www.linkedin.com/in/oisin-mcguinness-b753154
+- 🌱 I’m currently learning about Lean, and especially **mathlib**; see https://leanprover-community.github.io/index.html ; hope to contribute.
+- Former professional life: see LinkedIn: https://www.linkedin.com/in/oisin-mcguinness-b753154
 - 💞️ Collaboration TBD.
 - 📫 How to reach me: email to FirstName . LastName at Gmail; don't include the 'fada'.
 
