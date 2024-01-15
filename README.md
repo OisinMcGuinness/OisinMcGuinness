@@ -2,7 +2,7 @@
 - 👀 I’m interested in elliptic curves (e.g., see https://www.ams.org/journals/bull/1990-23-02/S0273-0979-1990-15937-3/S0273-0979-1990-15937-3.pdf ), computational number theory, and related areas (e.g. LMFDB).
 - More mathematics here: https://www.math.columbia.edu/~om
 - Math Genealogy link: https://genealogy.math.ndsu.nodak.edu/id.php?id=4456
-- Erdős Number: 4
+- Erdős Number: 4 (https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=272179&target=189017)
 - 🌱 I’m currently learning about Lean, and especially **mathlib**; see https://leanprover-community.github.io/index.html ; hope to contribute.
 - Former professional life: see LinkedIn: https://www.linkedin.com/in/oisin-mcguinness-b753154
 - 💞️ Collaboration TBD.
